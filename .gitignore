@@ -3,3 +3,21 @@ __pycache__/
 venv/
 *.pyc
 .DS_Store
+
+# Log files
+*.log
+logs/
+
+# Jupyter notebooks
+*.ipynb
+
+# Test result or cache directories
+.cache/
+*.pytest_cache/
+coverage/
+
+# VS Code settings
+.vscode/
+
+# Backup files
+*~
