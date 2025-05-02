@@ -1,0 +1,452 @@
+[2025-05-01 15:32:53.758077] Testing Bot v1.0 Starting...
+[2025-05-01 15:32:55.194137] No trade - RSI neutral. Current RSI: 45.57
+[2025-05-01 15:33:56.669001] No trade - RSI neutral. Current RSI: 42.40
+[2025-05-01 15:40:03.945719] No trade - RSI neutral. Current RSI: 43.75
+[2025-05-01 15:41:05.243567] No trade - RSI neutral. Current RSI: 38.83
+[2025-05-01 15:42:06.558355] No trade - RSI neutral. Current RSI: 41.02
+[2025-05-01 15:43:07.972111] No trade - RSI neutral. Current RSI: 43.35
+[2025-05-01 15:49:18.587128] Testing Bot v1.0 Starting...
+[2025-05-01 15:50:53.206157] Testing Bot v1.0 Starting...
+[2025-05-01 15:50:54.642402] No trade - RSI neutral. Current RSI: 32.14
+[2025-05-01 15:54:39.248455] Testing Bot v1.0 Starting...
+[2025-05-01 15:54:40.439878] No trade - RSI neutral. Current RSI: 37.03
+[2025-05-01 15:55:41.963445] No trade - RSI neutral. Current RSI: 37.61
+[2025-05-01 15:57:20.185745] Testing Bot v1.0 Starting...
+[2025-05-01 15:58:13.399507] Testing Bot v1.0 Starting...
+[2025-05-01 15:59:42.395817] Testing Bot v1.0 Starting...
+[2025-05-01 16:01:02.476951] Testing Bot v1.0 Starting...
+[2025-05-01 16:04:12.637542] Testing Bot v1.0 Starting...
+[2025-05-01 16:05:22.592053] Testing Bot v1.0 Starting...
+[2025-05-01 16:08:16.047935] Testing Bot v1.0 Starting...
+[2025-05-01 16:10:35.189169] Testing Bot v1.0 Starting...
+[2025-05-01 16:15:42.994466] No trade - RSI neutral. Current RSI: 45.90
+[2025-05-01 16:16:31.512811] Testing Bot v1.0 Starting...
+[2025-05-01 16:16:32.871179] No trade - RSI neutral. Current RSI: 49.48
+[2025-05-01 16:17:33.972962] No trade - RSI neutral. Current RSI: 44.39
+[2025-05-01 16:21:10.771826] Testing Bot v1.0 Starting...
+[2025-05-01 16:21:11.917228] No trade - RSI neutral. Current RSI: 59.46
+[2025-05-01 16:23:49.110621] Testing Bot v1.0 Starting...
+[2025-05-01 16:23:49.960356] No trade - RSI neutral. Current RSI: 57.32
+[2025-05-01 16:24:22.749589] Testing Bot v1.0 Starting...
+[2025-05-01 16:24:24.038417] No trade - RSI neutral. Current RSI: 56.44
+[2025-05-01 16:28:25.537785] Testing Bot v1.0 Starting...
+[2025-05-01 16:28:26.771214] No trade - RSI neutral. Current RSI: 62.99
+[2025-05-01 16:29:28.423846] No trade - RSI neutral. Current RSI: 58.61
+[2025-05-01 16:30:29.731182] No trade - RSI neutral. Current RSI: 49.60
+[2025-05-01 16:33:38.206481] Testing Bot v1.0 Starting...
+[2025-05-01 16:33:40.200018] No trade - RSI neutral. Current RSI: 32.49
+[2025-05-01 16:34:27.700048] Testing Bot v1.0 Starting...
+[2025-05-01 16:34:29.061697] No trade - RSI neutral. Current RSI: 32.65
+[2025-05-01 16:35:30.712730] No trade - RSI neutral. Current RSI: 37.80
+[2025-05-01 16:43:04.088857] Testing Bot v1.0 Starting...
+[2025-05-01 16:43:05.596972] No trade - RSI neutral. Current RSI: 51.15
+[2025-05-01 16:44:07.186093] No trade - RSI neutral. Current RSI: 48.92
+[2025-05-01 16:45:08.935281] No trade - RSI neutral. Current RSI: 48.29
+[2025-05-01 16:46:10.014875] No trade - RSI neutral. Current RSI: 48.04
+[2025-05-01 16:50:57.091447] Testing Bot v1.0 Starting...
+[2025-05-01 16:50:58.355324] No trade - RSI neutral. Current RSI: 60.14
+[2025-05-01 16:51:59.868818] No trade - RSI neutral. Current RSI: 60.79
+[2025-05-01 16:53:01.481351] No trade - RSI neutral. Current RSI: 64.10
+[2025-05-01 16:54:02.746961] No trade - RSI neutral. Current RSI: 67.46
+[2025-05-01 16:55:03.821039] No trade - RSI neutral. Current RSI: 67.45
+[2025-05-01 16:56:04.843777] No trade - RSI neutral. Current RSI: 68.00
+[2025-05-01 16:57:06.091241] No trade - RSI neutral. Current RSI: 69.67
+[2025-05-01 17:21:42.525696] Testing Bot v1.0 Starting...
+[2025-05-01 17:23:46.671072] Testing Bot v1.0 Starting...
+[2025-05-01 17:26:39.977282] Testing Bot v1.0 Starting...
+[2025-05-01 17:26:41.027727] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:27:42.829479] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:28:44.258918] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:29:45.347408] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:30:46.701884] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:31:48.021315] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:32:03.687869] Testing Bot v1.0 Starting...
+[2025-05-01 17:32:05.230406] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:33:07.020940] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:41:32.967788] Testing Bot v1.0 Starting...
+[2025-05-01 17:41:34.413370] No trade - RSI neutral. Current RSI: 50.13
+[2025-05-01 17:42:36.113119] No trade - RSI neutral. Current RSI: 54.38
+[2025-05-01 17:43:37.789499] No trade - RSI neutral. Current RSI: 58.50
+[2025-05-01 17:44:39.095239] No trade - RSI neutral. Current RSI: 57.09
+[2025-05-01 17:45:40.682955] No trade - RSI neutral. Current RSI: 55.64
+[2025-05-01 17:46:41.893049] No trade - RSI neutral. Current RSI: 54.00
+[2025-05-01 17:47:43.636371] No trade - RSI neutral. Current RSI: 57.17
+[2025-05-01 17:48:45.071348] No trade - RSI neutral. Current RSI: 55.98
+[2025-05-01 17:49:46.321740] No trade - RSI neutral. Current RSI: 64.32
+[2025-05-01 17:50:47.727719] No trade - RSI neutral. Current RSI: 67.94
+[2025-05-01 17:51:49.185834] No trade - RSI neutral. Current RSI: 62.92
+[2025-05-01 17:52:50.521143] No trade - RSI neutral. Current RSI: 62.26
+[2025-05-01 17:53:52.099387] No trade - RSI neutral. Current RSI: 59.39
+[2025-05-01 17:54:53.502121] No trade - RSI neutral. Current RSI: 63.90
+[2025-05-01 17:55:54.779998] No trade - RSI neutral. Current RSI: 67.32
+[2025-05-01 17:56:56.074952] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:57:56.951584] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:58:57.926845] ❌ SELL skipped — no BTC available.
+[2025-05-01 17:59:59.587587] ❌ SELL skipped — no BTC available.
+[2025-05-01 18:01:00.757111] ❌ SELL skipped — no BTC available.
+[2025-05-01 18:02:02.281544] No trade - RSI neutral. Current RSI: 63.57
+[2025-05-01 18:03:03.590756] No trade - RSI neutral. Current RSI: 58.22
+[2025-05-01 18:04:04.990346] No trade - RSI neutral. Current RSI: 63.13
+[2025-05-01 18:05:06.242840] No trade - RSI neutral. Current RSI: 61.17
+[2025-05-01 18:06:07.710099] No trade - RSI neutral. Current RSI: 60.12
+[2025-05-01 18:07:08.942263] No trade - RSI neutral. Current RSI: 60.52
+[2025-05-01 18:08:10.327058] No trade - RSI neutral. Current RSI: 59.11
+[2025-05-01 18:09:11.724594] No trade - RSI neutral. Current RSI: 63.55
+[2025-05-01 18:10:12.516911] No trade - RSI neutral. Current RSI: 61.20
+[2025-05-01 18:11:13.459003] No trade - RSI neutral. Current RSI: 58.51
+[2025-05-01 18:12:14.308862] No trade - RSI neutral. Current RSI: 50.28
+[2025-05-01 18:13:31.862535] Testing Bot v1.0 Starting...
+[2025-05-01 18:13:33.193257] No trade - RSI neutral. Current RSI: 50.56
+[2025-05-01 18:14:35.342323] No trade - RSI neutral. Current RSI: 48.41
+[2025-05-01 18:15:36.547959] No trade - RSI neutral. Current RSI: 53.01
+[2025-05-01 18:16:37.635899] No trade - RSI neutral. Current RSI: 50.15
+[2025-05-01 18:17:39.077505] No trade - RSI neutral. Current RSI: 50.61
+[2025-05-01 18:23:31.207445] Testing Bot v1.0 Starting...
+[2025-05-01 18:23:32.513821] No trade - RSI neutral. Current RSI: 64.58
+[2025-05-01 18:24:34.295585] No trade - RSI neutral. Current RSI: 64.41
+[2025-05-01 18:25:35.629981] No trade - RSI neutral. Current RSI: 57.91
+[2025-05-01 18:26:37.189103] No trade - RSI neutral. Current RSI: 51.76
+[2025-05-01 18:27:38.643838] No trade - RSI neutral. Current RSI: 53.70
+[2025-05-01 18:28:39.844952] No trade - RSI neutral. Current RSI: 49.82
+[2025-05-01 18:29:41.104441] No trade - RSI neutral. Current RSI: 48.67
+[2025-05-01 18:30:42.338289] No trade - RSI neutral. Current RSI: 45.58
+[2025-05-01 18:31:43.860267] No trade - RSI neutral. Current RSI: 43.54
+[2025-05-01 18:32:49.216854] Testing Bot v1.0 Starting...
+[2025-05-01 18:32:50.444564] 📢 BUY Signal - Bought BTC at $96933.97
+[2025-05-01 18:33:52.390089] 📢 BUY Signal - Bought BTC at $96908.95
+[2025-05-01 18:34:53.879902] 📢 BUY Signal - Bought BTC at $96933.97
+[2025-05-01 18:35:55.336218] 📢 BUY Signal - Bought BTC at $96946.32
+[2025-05-01 18:36:56.667715] 📢 BUY Signal - Bought BTC at $96941.53
+[2025-05-01 18:37:58.451982] 📢 BUY Signal - Bought BTC at $96979.52
+[2025-05-01 18:38:59.592066] 📢 BUY Signal - Bought BTC at $96948.17
+[2025-05-01 18:39:48.188691] Testing Bot v1.0 Starting...
+[2025-05-01 18:39:49.725836] 📢 BUY Signal - Bought BTC at $96956.28
+[2025-05-01 18:40:51.378359] 📢 BUY Signal - Bought BTC at $96929.00
+[2025-05-01 18:41:38.266750] Testing Bot v1.0 Starting...
+[2025-05-01 18:41:39.702504] 📢 BUY Signal - Bought BTC at $96919.49
+[2025-05-01 18:42:30.156547] Testing Bot v1.0 Starting...
+[2025-05-01 18:42:31.525170] 📢 BUY Signal - Bought BTC at $96866.74
+[2025-05-01 18:43:32.990509] 📢 BUY Signal - Bought BTC at $96820.04
+[2025-05-01 18:44:34.290425] 📢 BUY Signal - Bought BTC at $96844.20
+[2025-05-01 18:45:36.043794] 📢 BUY Signal - Bought BTC at $96846.07
+[2025-05-01 18:46:37.279589] 📢 BUY Signal - Bought BTC at $96825.82
+[2025-05-01 18:47:38.705608] 📢 BUY Signal - Bought BTC at $96829.46
+[2025-05-01 18:48:40.056924] 📢 BUY Signal - Bought BTC at $96820.02
+[2025-05-01 18:49:41.293344] 📢 BUY Signal - Bought BTC at $96826.64
+[2025-05-01 18:50:42.632603] 📢 BUY Signal - Bought BTC at $96865.73
+[2025-05-01 18:51:43.746746] No trade - RSI neutral. Current RSI: 47.07
+[2025-05-01 18:52:45.111975] No trade - RSI neutral. Current RSI: 49.77
+[2025-05-01 18:53:46.751984] No trade - RSI neutral. Current RSI: 50.15
+[2025-05-01 18:54:48.195471] No trade - RSI neutral. Current RSI: 48.50
+[2025-05-01 18:55:49.888152] No trade - RSI neutral. Current RSI: 52.09
+[2025-05-01 18:56:51.413260] 📢 SELL Signal - Sold BTC at $97010.83
+[2025-05-01 18:57:52.607832] 📢 SELL Signal - Sold BTC at $97010.82
+[2025-05-01 18:58:53.851380] 📢 SELL Signal - Sold BTC at $97003.69
+[2025-05-01 19:04:08.281188] Testing Bot v1.0 Starting...
+[2025-05-01 19:04:09.609134] 📢 BUY Signal - Bought BTC at $96768.80
+[2025-05-01 19:04:09.609538] 💼 Wallet: 950.00 USD, 0.000516 BTC
+[2025-05-01 19:05:11.659085] 📢 BUY Signal - Bought BTC at $96771.10
+[2025-05-01 19:05:11.659975] 💼 Wallet: 902.50 USD, 0.001007 BTC
+[2025-05-01 19:06:13.012007] 📢 BUY Signal - Bought BTC at $96740.01
+[2025-05-01 19:06:13.013937] 💼 Wallet: 857.38 USD, 0.001473 BTC
+[2025-05-01 19:07:13.552483] 📢 BUY Signal - Bought BTC at $96741.86
+[2025-05-01 19:07:13.554395] 💼 Wallet: 814.51 USD, 0.001915 BTC
+[2025-05-01 19:08:14.692230] 📢 BUY Signal - Bought BTC at $96735.84
+[2025-05-01 19:08:14.693650] 💼 Wallet: 773.78 USD, 0.002336 BTC
+[2025-05-01 19:09:15.675515] 📢 BUY Signal - Bought BTC at $96798.47
+[2025-05-01 19:09:15.677611] 💼 Wallet: 735.09 USD, 0.002735 BTC
+[2025-05-01 19:10:16.296121] No trade - RSI neutral. Current RSI: 45.56
+[2025-05-01 19:10:16.297840] 💼 Wallet: 735.09 USD, 0.002735 BTC (Total $999.92)
+[2025-05-01 19:11:17.646916] 📢 BUY Signal - Bought BTC at $96801.74
+[2025-05-01 19:11:17.647901] 💼 Wallet: 698.34 USD, 0.003114 BTC
+[2025-05-01 19:12:18.862463] 📢 BUY Signal - Bought BTC at $96783.12
+[2025-05-01 19:12:18.864720] 💼 Wallet: 663.42 USD, 0.003475 BTC
+[2025-05-01 19:13:20.251398] 📢 BUY Signal - Bought BTC at $96796.93
+[2025-05-01 19:13:20.252280] 💼 Wallet: 630.25 USD, 0.003817 BTC
+[2025-05-01 19:14:43.452816] Testing Bot v1.0 Starting...
+[2025-05-01 19:14:44.715712] 📢 BUY Signal - Bought BTC at $96783.56
+[2025-05-01 19:14:44.716043] 💼 Wallet: 950.00 USD, 0.000516 BTC
+[2025-05-01 19:15:46.547712] 📢 BUY Signal - Bought BTC at $96760.00
+[2025-05-01 19:15:46.549324] 💼 Wallet: 902.50 USD, 0.001007 BTC
+[2025-05-01 19:16:47.952785] 📢 BUY Signal - Bought BTC at $96766.77
+[2025-05-01 19:16:47.954853] 💼 Wallet: 857.38 USD, 0.001472 BTC
+[2025-05-01 19:17:49.227478] 📢 BUY Signal - Bought BTC at $96785.74
+[2025-05-01 19:17:49.227964] 💼 Wallet: 814.51 USD, 0.001915 BTC
+[2025-05-01 19:18:50.531336] No trade - RSI neutral. Current RSI: 48.86
+[2025-05-01 19:18:50.531810] 💼 Wallet: 814.51 USD, 0.001915 BTC (Total $999.90)
+[2025-05-01 19:19:51.759450] No trade - RSI neutral. Current RSI: 50.50
+[2025-05-01 19:19:51.761323] 💼 Wallet: 814.51 USD, 0.001915 BTC (Total $999.93)
+[2025-05-01 19:20:53.093424] No trade - RSI neutral. Current RSI: 51.21
+[2025-05-01 19:20:53.095268] 💼 Wallet: 814.51 USD, 0.001915 BTC (Total $999.94)
+[2025-05-01 19:21:54.331890] 📢 SELL Signal - Sold BTC at $96874.15
+[2025-05-01 19:21:54.333374] 💼 Wallet: 823.77 USD, 0.001819 BTC
+[2025-05-01 19:22:55.622311] 📢 SELL Signal - Sold BTC at $96885.76
+[2025-05-01 19:22:55.623159] 💼 Wallet: 832.58 USD, 0.001728 BTC
+[2025-05-01 19:23:56.883647] 📢 SELL Signal - Sold BTC at $96876.90
+[2025-05-01 19:23:56.884175] 💼 Wallet: 840.94 USD, 0.001642 BTC
+[2025-05-01 19:24:58.608640] No trade - RSI neutral. Current RSI: 52.49
+[2025-05-01 19:24:58.609101] 💼 Wallet: 840.94 USD, 0.001642 BTC (Total $999.99)
+[2025-05-01 19:25:59.620142] 📢 SELL Signal - Sold BTC at $96885.78
+[2025-05-01 19:25:59.620649] 💼 Wallet: 848.88 USD, 0.001560 BTC
+[2025-05-01 19:27:00.942746] 📢 SELL Signal - Sold BTC at $96896.82
+[2025-05-01 19:27:00.943247] 💼 Wallet: 856.43 USD, 0.001482 BTC
+[2025-05-01 19:28:02.097059] 📢 SELL Signal - Sold BTC at $96924.21
+[2025-05-01 19:28:02.097958] 💼 Wallet: 863.61 USD, 0.001408 BTC
+[2025-05-01 19:29:03.391121] 📢 SELL Signal - Sold BTC at $96934.34
+[2025-05-01 19:29:03.392221] 💼 Wallet: 870.42 USD, 0.001337 BTC
+[2025-05-01 19:30:04.377247] 📢 SELL Signal - Sold BTC at $96990.55
+[2025-05-01 19:30:04.378934] 💼 Wallet: 876.90 USD, 0.001270 BTC
+[2025-05-01 19:31:06.896446] 📢 SELL Signal - Sold BTC at $97030.81
+[2025-05-01 19:31:06.898404] 💼 Wallet: 883.06 USD, 0.001207 BTC
+[2025-05-01 19:32:08.442849] 📢 SELL Signal - Sold BTC at $96992.06
+[2025-05-01 19:32:08.445053] 💼 Wallet: 888.90 USD, 0.001146 BTC
+[2025-05-01 19:33:09.870201] 📢 SELL Signal - Sold BTC at $97001.73
+[2025-05-01 19:33:09.871441] 💼 Wallet: 894.46 USD, 0.001089 BTC
+[2025-05-01 19:34:11.208300] 📢 SELL Signal - Sold BTC at $97039.97
+[2025-05-01 19:34:11.209483] 💼 Wallet: 899.74 USD, 0.001035 BTC
+[2025-05-01 19:35:12.443655] 📢 SELL Signal - Sold BTC at $97027.02
+[2025-05-01 19:35:12.445593] 💼 Wallet: 904.75 USD, 0.000983 BTC
+[2025-05-01 19:36:13.034082] 📢 SELL Signal - Sold BTC at $97039.00
+[2025-05-01 19:36:13.034386] 💼 Wallet: 909.52 USD, 0.000934 BTC
+[2025-05-01 19:37:13.658940] 📢 SELL Signal - Sold BTC at $96933.32
+[2025-05-01 19:37:13.661016] 💼 Wallet: 914.04 USD, 0.000887 BTC
+[2025-05-01 19:38:14.199512] No trade - RSI neutral. Current RSI: 52.11
+[2025-05-01 19:38:14.201755] 💼 Wallet: 914.04 USD, 0.000887 BTC (Total $1000.04)
+[2025-05-01 19:39:14.871297] 📢 SELL Signal - Sold BTC at $96987.69
+[2025-05-01 19:39:14.873223] 💼 Wallet: 918.34 USD, 0.000843 BTC
+[2025-05-01 19:40:15.505160] 📢 SELL Signal - Sold BTC at $96982.79
+[2025-05-01 19:40:15.507393] 💼 Wallet: 922.42 USD, 0.000801 BTC
+[2025-05-01 19:41:16.768409] 📢 SELL Signal - Sold BTC at $96982.86
+[2025-05-01 19:41:16.770594] 💼 Wallet: 926.30 USD, 0.000761 BTC
+[2025-05-01 19:42:18.116983] No trade - RSI neutral. Current RSI: 51.66
+[2025-05-01 19:42:18.119235] 💼 Wallet: 926.30 USD, 0.000761 BTC (Total $1000.04)
+[2025-05-01 19:43:19.499114] No trade - RSI neutral. Current RSI: 45.22
+[2025-05-01 19:43:19.501025] 💼 Wallet: 926.30 USD, 0.000761 BTC (Total $1000.00)
+[2025-05-01 19:44:20.834821] No trade - RSI neutral. Current RSI: 50.10
+[2025-05-01 19:44:20.836489] 💼 Wallet: 926.30 USD, 0.000761 BTC (Total $1000.03)
+[2025-05-01 19:45:22.135020] No trade - RSI neutral. Current RSI: 50.98
+[2025-05-01 19:45:22.136698] 💼 Wallet: 926.30 USD, 0.000761 BTC (Total $1000.03)
+[2025-05-01 19:46:23.151279] No trade - RSI neutral. Current RSI: 53.19
+[2025-05-01 19:46:23.153483] 💼 Wallet: 926.30 USD, 0.000761 BTC (Total $1000.04)
+[2025-05-01 19:47:24.912520] 📢 SELL Signal - Sold BTC at $96981.66
+[2025-05-01 19:47:24.913590] 💼 Wallet: 929.98 USD, 0.000723 BTC
+[2025-05-01 19:48:26.248352] 📢 SELL Signal - Sold BTC at $96998.86
+[2025-05-01 19:48:26.250629] 💼 Wallet: 933.48 USD, 0.000686 BTC
+[2025-05-01 19:49:27.505070] 📢 SELL Signal - Sold BTC at $96998.95
+[2025-05-01 19:49:27.505571] 💼 Wallet: 936.81 USD, 0.000652 BTC
+[2025-05-01 19:50:28.750971] 📢 SELL Signal - Sold BTC at $96998.94
+[2025-05-01 19:50:28.751924] 💼 Wallet: 939.97 USD, 0.000620 BTC
+[2025-05-01 19:51:29.778972] 📢 SELL Signal - Sold BTC at $96998.93
+[2025-05-01 19:51:29.780387] 💼 Wallet: 942.97 USD, 0.000589 BTC
+[2025-05-01 19:52:31.193614] 📢 SELL Signal - Sold BTC at $97014.08
+[2025-05-01 19:52:31.195355] 💼 Wallet: 945.82 USD, 0.000559 BTC
+[2025-05-01 19:55:08.660351] Testing Bot v1.0 Starting...
+[2025-05-01 19:55:09.853933] ❌ Not enough BTC to perform trade.
+[2025-05-01 19:56:11.599277] ❌ Not enough BTC to perform trade.
+[2025-05-01 19:57:12.284787] ❌ Not enough BTC to perform trade.
+[2025-05-01 19:58:13.016435] ❌ Not enough BTC to perform trade.
+[2025-05-01 19:58:37.770273] Testing Bot v1.0 Starting...
+[2025-05-01 19:58:38.852631] No trade - RSI neutral. Current RSI: 51.05
+[2025-05-01 19:58:38.853107] 💼 Wallet: 1000.00 USD, 0.000000 BTC (Total $1000.00)
+[2025-05-01 19:59:40.462576] No trade - RSI neutral. Current RSI: 46.29
+[2025-05-01 19:59:40.464309] 💼 Wallet: 1000.00 USD, 0.000000 BTC (Total $1000.00)
+[2025-05-01 20:00:41.899798] No trade - RSI neutral. Current RSI: 46.17
+[2025-05-01 20:00:41.900386] 💼 Wallet: 1000.00 USD, 0.000000 BTC (Total $1000.00)
+[2025-05-01 20:01:42.963259] ❌ Not enough BTC to perform trade.
+[2025-05-02 08:25:53.452933] Testing Bot v1.0 Starting...
+[2025-05-02 08:25:54.683870] 📢 BUY Signal - Bought BTC at $97435.74
+[2025-05-02 08:25:54.684348] 💼 Wallet: 950.00 USD, 0.000513 BTC
+[2025-05-02 08:26:56.014629] 📢 BUY Signal - Bought BTC at $97180.45
+[2025-05-02 08:26:56.016722] 💼 Wallet: 902.50 USD, 0.001001 BTC
+[2025-05-02 08:27:57.563819] 📢 BUY Signal - Bought BTC at $97087.03
+[2025-05-02 08:27:57.565404] 💼 Wallet: 857.38 USD, 0.001465 BTC
+[2025-05-02 08:28:58.901246] 📢 BUY Signal - Bought BTC at $97122.44
+[2025-05-02 08:28:58.902357] 💼 Wallet: 814.51 USD, 0.001906 BTC
+[2025-05-02 08:30:00.754627] 📢 BUY Signal - Bought BTC at $97189.99
+[2025-05-02 08:30:00.756608] 💼 Wallet: 773.78 USD, 0.002325 BTC
+[2025-05-02 08:31:01.926784] 📢 BUY Signal - Bought BTC at $97166.16
+[2025-05-02 08:31:01.928628] 💼 Wallet: 735.09 USD, 0.002723 BTC
+[2025-05-02 08:32:03.430009] 📢 BUY Signal - Bought BTC at $97309.35
+[2025-05-02 08:32:03.431470] 💼 Wallet: 698.34 USD, 0.003100 BTC
+[2025-05-02 08:33:04.870044] 📢 BUY Signal - Bought BTC at $97307.93
+[2025-05-02 08:33:04.872349] 💼 Wallet: 663.42 USD, 0.003458 BTC
+[2025-05-02 08:34:06.239555] 📢 BUY Signal - Bought BTC at $97341.92
+[2025-05-02 08:34:06.239957] 💼 Wallet: 630.25 USD, 0.003799 BTC
+[2025-05-02 08:35:07.266284] No trade - RSI neutral. Current RSI: 46.92
+[2025-05-02 08:35:07.268130] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.15)
+[2025-05-02 08:36:08.617644] No trade - RSI neutral. Current RSI: 48.77
+[2025-05-02 08:36:08.618119] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.24)
+[2025-05-02 08:37:09.604159] No trade - RSI neutral. Current RSI: 45.53
+[2025-05-02 08:37:09.606049] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.06)
+[2025-05-02 08:38:11.285092] No trade - RSI neutral. Current RSI: 46.95
+[2025-05-02 08:38:11.288172] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.12)
+[2025-05-02 08:39:12.115372] No trade - RSI neutral. Current RSI: 45.19
+[2025-05-02 08:39:12.117477] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.00)
+[2025-05-02 08:40:12.675513] No trade - RSI neutral. Current RSI: 49.14
+[2025-05-02 08:40:12.676001] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.20)
+[2025-05-02 08:41:13.210797] No trade - RSI neutral. Current RSI: 49.39
+[2025-05-02 08:41:13.212408] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.21)
+[2025-05-02 08:42:14.010846] No trade - RSI neutral. Current RSI: 51.58
+[2025-05-02 08:42:14.012359] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.33)
+[2025-05-02 08:43:14.579683] No trade - RSI neutral. Current RSI: 52.48
+[2025-05-02 08:43:14.581213] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.37)
+[2025-05-02 08:44:15.305308] No trade - RSI neutral. Current RSI: 52.85
+[2025-05-02 08:44:15.306496] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.39)
+[2025-05-02 08:45:15.881619] No trade - RSI neutral. Current RSI: 52.48
+[2025-05-02 08:45:15.882561] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.38)
+[2025-05-02 08:46:16.550059] No trade - RSI neutral. Current RSI: 50.36
+[2025-05-02 08:46:16.551414] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.30)
+[2025-05-02 08:47:17.633215] ❌ SELL skipped — below profit threshold.
+[2025-05-02 08:48:18.701187] No trade - RSI neutral. Current RSI: 50.74
+[2025-05-02 08:48:18.701788] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.33)
+[2025-05-02 08:49:19.914694] No trade - RSI neutral. Current RSI: 53.96
+[2025-05-02 08:49:19.916278] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.51)
+[2025-05-02 08:50:21.329817] No trade - RSI neutral. Current RSI: 53.94
+[2025-05-02 08:50:21.331687] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.39)
+[2025-05-02 08:51:22.457467] No trade - RSI neutral. Current RSI: 51.31
+[2025-05-02 08:51:22.458171] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.43)
+[2025-05-02 08:52:23.694158] ❌ SELL skipped — below profit threshold.
+[2025-05-02 08:53:24.839970] No trade - RSI neutral. Current RSI: 47.38
+[2025-05-02 08:53:24.841514] 💼 Wallet: 630.25 USD, 0.003799 BTC (Total $1000.18)
+[2025-05-02 08:54:26.629139] 📢 BUY Signal - Bought BTC at $97345.53
+[2025-05-02 08:54:26.631351] 💼 Wallet: 598.74 USD, 0.004122 BTC
+[2025-05-02 08:55:27.985709] No trade - RSI neutral. Current RSI: 47.81
+[2025-05-02 08:55:27.987593] 💼 Wallet: 598.74 USD, 0.004122 BTC (Total $1000.19)
+[2025-05-02 08:56:29.632301] No trade - RSI neutral. Current RSI: 46.40
+[2025-05-02 08:56:29.634096] 💼 Wallet: 598.74 USD, 0.004122 BTC (Total $1000.12)
+[2025-05-02 08:57:30.802097] 📢 BUY Signal - Bought BTC at $97320.99
+[2025-05-02 08:57:30.803673] 💼 Wallet: 568.80 USD, 0.004430 BTC
+[2025-05-02 08:58:32.513226] 📢 BUY Signal - Bought BTC at $97347.01
+[2025-05-02 08:58:32.516083] 💼 Wallet: 540.36 USD, 0.004721 BTC
+[2025-05-02 08:59:33.879377] No trade - RSI neutral. Current RSI: 48.52
+[2025-05-02 08:59:33.879835] 💼 Wallet: 540.36 USD, 0.004721 BTC (Total $1000.13)
+[2025-05-02 09:00:35.190483] No trade - RSI neutral. Current RSI: 45.11
+[2025-05-02 09:00:35.192412] 💼 Wallet: 540.36 USD, 0.004721 BTC (Total $999.96)
+[2025-05-02 09:01:36.551879] ❌ SELL skipped — below profit threshold.
+[2025-05-02 09:02:38.072290] ❌ SELL skipped — below profit threshold.
+[2025-05-02 09:03:39.264704] 📢 BUY Signal - Bought BTC at $97564.54
+[2025-05-02 09:03:39.265182] 💼 Wallet: 513.34 USD, 0.004998 BTC
+[2025-05-02 09:04:40.646530] ❌ SELL skipped — below profit threshold.
+[2025-05-02 09:05:41.641187] ❌ SELL skipped — below profit threshold.
+[2025-05-02 09:10:06.831015] Testing Bot v1.0 Starting...
+[2025-05-02 09:10:07.926852] RSI: 60.38072613301545
+[2025-05-02 09:10:07.927335] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:11:09.763747] RSI: 61.24696677787752
+[2025-05-02 09:11:09.765943] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:12:11.227903] RSI: 61.77642022028059
+[2025-05-02 09:12:11.229077] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:13:12.062518] RSI: 52.55886249535033
+[2025-05-02 09:13:12.065139] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:14:12.850578] RSI: 51.93628668966596
+[2025-05-02 09:14:12.851233] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:15:13.417347] RSI: 55.55650284544869
+[2025-05-02 09:15:13.419375] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:16:14.115320] RSI: 54.13657217440303
+[2025-05-02 09:16:14.116968] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:17:14.845432] RSI: 52.05525633428884
+[2025-05-02 09:17:14.847641] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:18:15.609475] RSI: 50.20119982887187
+[2025-05-02 09:18:15.611987] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:19:16.369079] RSI: 56.72637498466282
+[2025-05-02 09:19:16.371098] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:20:17.532798] RSI: 58.28603097672192
+[2025-05-02 09:20:17.534020] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:21:18.842409] RSI: 58.92748068312642
+[2025-05-02 09:21:18.844585] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:27:56.668346] Testing Bot v1.0 Starting...
+[2025-05-02 09:27:58.103767] RSI: 64.10063299387525
+[2025-05-02 09:27:58.104307] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:28:59.798733] RSI: 63.5858589651186
+[2025-05-02 09:28:59.800749] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:30:00.936183] RSI: 47.75352892751379
+[2025-05-02 09:30:00.937064] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:31:02.319669] RSI: 51.524787014850894
+[2025-05-02 09:31:02.320728] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:32:04.171500] RSI: 50.967258149966064
+[2025-05-02 09:32:04.173769] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:33:05.510423] RSI: 55.97952030963646
+[2025-05-02 09:33:05.512622] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:34:06.845879] RSI: 47.21719473977375
+[2025-05-02 09:34:06.847403] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:35:07.715810] RSI: 48.020698103064014
+[2025-05-02 09:35:07.716672] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:36:09.116813] RSI: 50.311442937970085
+[2025-05-02 09:36:09.118480] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:37:10.174090] RSI: 47.21403601201322
+[2025-05-02 09:37:10.175345] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:38:11.687381] RSI: 47.47265856263872
+[2025-05-02 09:38:11.689154] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:39:12.273530] RSI: 45.451843527883156
+[2025-05-02 09:39:12.274360] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:40:13.101507] RSI: 47.94052744485223
+[2025-05-02 09:40:13.102601] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:41:13.676042] RSI: 41.88511635056602
+[2025-05-02 09:41:13.676727] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 09:42:14.595244] RSI: 44.28971150677227
+[2025-05-02 09:42:14.595995] No trade - RSI neutral. Current RSI: 44.29
+[2025-05-02 09:42:14.596202] 💼 Wallet: 1000.00 USD, 0.000000 BTC (Total $1000.00)
+[2025-05-02 09:42:14.596376] Wallet Status: {'USD': 1000.0, 'BTC': 0.0, 'avg_buy_price': 0.0, 'total_btc_bought': 0.0}
+[2025-05-02 09:43:15.151153] RSI: 44.30369686505011
+[2025-05-02 09:43:15.152499] No trade - RSI neutral. Current RSI: 44.30
+[2025-05-02 09:43:15.152745] 💼 Wallet: 1000.00 USD, 0.000000 BTC (Total $1000.00)
+[2025-05-02 09:43:15.152990] Wallet Status: {'USD': 1000.0, 'BTC': 0.0, 'avg_buy_price': 0.0, 'total_btc_bought': 0.0}
+[2025-05-02 09:44:15.886862] RSI: 44.849584780083674
+[2025-05-02 09:44:15.887738] No trade - RSI neutral. Current RSI: 44.85
+[2025-05-02 09:44:15.887970] 💼 Wallet: 1000.00 USD, 0.000000 BTC (Total $1000.00)
+[2025-05-02 09:44:15.888202] Wallet Status: {'USD': 1000.0, 'BTC': 0.0, 'avg_buy_price': 0.0, 'total_btc_bought': 0.0}
+[2025-05-02 09:45:16.732712] RSI: 55.65943028713543
+[2025-05-02 09:45:16.735167] ❌ Not enough BTC to perform trade.
+[2025-05-02 09:45:16.735517] Wallet Status: {'USD': 1000.0, 'BTC': 0.0, 'avg_buy_price': 0.0, 'total_btc_bought': 0.0}
+[2025-05-02 09:46:18.073833] RSI: 51.2162274152937
+[2025-05-02 09:46:18.075253] ❌ Not enough BTC to perform trade.
+[2025-05-02 09:46:18.075571] Wallet Status: {'USD': 1000.0, 'BTC': 0.0, 'avg_buy_price': 0.0, 'total_btc_bought': 0.0}
+[2025-05-02 09:47:13.259775] Testing Bot v1.0 Starting...
+[2025-05-02 09:50:04.186934] Testing Bot v1.0 Starting...
+[2025-05-02 09:51:29.483238] Testing Bot v1.0 Starting...
+[2025-05-02 09:56:35.967042] Testing Bot v1.0 Starting...
+[2025-05-02 09:56:35.968800] 🕒 Start Time: 09:56:35 AM 05/02/2025
+[2025-05-02 09:58:44.179065] Testing Bot v1.0 Starting...
+[2025-05-02 09:58:44.180735] 🕒 Start Time: 09:58:44 AM 05/02/2025
+[2025-05-02 09:59:50.528706] Testing Bot v1.0 Starting...
+[2025-05-02 09:59:50.530367] 🕒 Start Time: 09:59:50 AM 05/02/2025
+[2025-05-02 10:00:12.614237] Testing Bot v1.0 Starting...
+[2025-05-02 10:00:12.615676] 🕒 Start Time: 10:00:12 AM 05/02/2025
+[2025-05-02 10:07:28.830385] RSI: 29.55229357863908
+[2025-05-02 10:07:28.832091] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 10:08:30.459129] RSI: 24.875830437402144
+[2025-05-02 10:08:30.461013] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 10:09:31.770542] RSI: 22.90884976818046
+[2025-05-02 10:09:31.772634] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 10:10:33.418093] RSI: 21.894576722564196
+[2025-05-02 10:10:33.420246] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 10:11:34.756709] RSI: 23.103498652176953
+[2025-05-02 10:11:34.758807] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 10:12:35.822687] RSI: 29.28443424856637
+[2025-05-02 10:12:35.825297] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 10:13:37.225945] RSI: 32.74275748372129
+[2025-05-02 10:13:37.227991] Wallet Status: {'USD': 1000.0, 'BTC': 0.0}
+[2025-05-02 10:14:38.502678] RSI: 29.69735904276439
+[2025-05-02 10:14:38.504914] 📢 BUY Signal - Bought BTC at $97142.45
+[2025-05-02 10:14:38.505243] 💼 Wallet: 950.00 USD, 0.000514 BTC
+[2025-05-02 10:14:38.505544] Wallet Status: {'USD': 950.0, 'BTC': 0.0005141933315455808, 'avg_buy_price': 97142.45, 'total_btc_bought': 0.0005141933315455808}
+[2025-05-02 10:15:39.805487] RSI: 37.231950380301896
+[2025-05-02 10:15:39.807208] Wallet Status: {'USD': 950.0, 'BTC': 0.0005141933315455808, 'avg_buy_price': 97142.45, 'total_btc_bought': 0.0005141933315455808}
+[2025-05-02 10:16:41.090070] RSI: 35.473798367115336
+[2025-05-02 10:16:41.092358] No trade - RSI neutral. Current RSI: 35.47
+[2025-05-02 10:16:41.092769] 💼 Wallet: 950.00 USD, 0.000514 BTC (Total $999.96)
+[2025-05-02 10:16:41.093122] Wallet Status: {'USD': 950.0, 'BTC': 0.0005141933315455808, 'avg_buy_price': 97142.45, 'total_btc_bought': 0.0005141933315455808}
+[2025-05-02 10:17:42.318966] RSI: 32.677051750106244
+[2025-05-02 10:17:42.319816] 📢 BUY Signal - Bought BTC at $97127.74
+[2025-05-02 10:17:42.320026] 💼 Wallet: 902.50 USD, 0.001003 BTC
+[2025-05-02 10:17:42.320219] Wallet Status: {'USD': 902.5, 'BTC': 0.0010027509773839376, 'avg_buy_price': 97135.28303319331, 'total_btc_bought': 0.0010027509773839376}
+[2025-05-02 10:18:43.713898] RSI: 40.91189529313337
+[2025-05-02 10:18:43.715920] Wallet Status: {'USD': 902.5, 'BTC': 0.0010027509773839376, 'avg_buy_price': 97135.28303319331, 'total_btc_bought': 0.0010027509773839376}
+[2025-05-02 10:19:45.065060] RSI: 43.408438320012074
+[2025-05-02 10:19:45.065974] No trade - RSI neutral. Current RSI: 43.41
+[2025-05-02 10:19:45.066230] 💼 Wallet: 902.50 USD, 0.001003 BTC (Total $999.98)
+[2025-05-02 10:19:45.066506] Wallet Status: {'USD': 902.5, 'BTC': 0.0010027509773839376, 'avg_buy_price': 97135.28303319331, 'total_btc_bought': 0.0010027509773839376}
+[2025-05-02 10:20:46.400148] RSI: 49.63312206293668
+[2025-05-02 10:20:46.400830] No trade - RSI neutral. Current RSI: 49.63
+[2025-05-02 10:20:46.401069] 💼 Wallet: 902.50 USD, 0.001003 BTC (Total $1000.04)
+[2025-05-02 10:20:46.401345] Wallet Status: {'USD': 902.5, 'BTC': 0.0010027509773839376, 'avg_buy_price': 97135.28303319331, 'total_btc_bought': 0.0010027509773839376}
+[2025-05-02 10:21:47.677724] RSI: 52.509971131649884

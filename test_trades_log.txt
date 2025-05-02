@@ -1,0 +1,41 @@
+[2025-04-27 10:57:11.958314] Testing Bot v1.0 Starting...
+[2025-04-27 10:59:54.828715] Testing Bot v1.0 Starting...
+[2025-04-27 10:59:55.779502] No trade - RSI neutral. Current RSI: 51.96
+[2025-04-27 11:00:57.083617] No trade - RSI neutral. Current RSI: 49.99
+[2025-04-27 11:01:58.322992] No trade - RSI neutral. Current RSI: 46.37
+[2025-04-27 11:02:59.005562] No trade - RSI neutral. Current RSI: 38.21
+[2025-04-27 11:04:00.073545] No trade - RSI neutral. Current RSI: 36.81
+[2025-04-27 11:05:01.147469] No trade - RSI neutral. Current RSI: 36.31
+[2025-04-27 11:06:02.343397] No trade - RSI neutral. Current RSI: 36.35
+[2025-04-27 11:07:03.518315] No trade - RSI neutral. Current RSI: 39.74
+[2025-04-27 11:08:04.539698] No trade - RSI neutral. Current RSI: 53.01
+[2025-04-27 11:09:05.572596] No trade - RSI neutral. Current RSI: 56.31
+[2025-04-27 11:10:06.574581] No trade - RSI neutral. Current RSI: 53.94
+[2025-04-27 11:11:07.325660] No trade - RSI neutral. Current RSI: 57.57
+[2025-04-27 11:16:12.707910] No trade - RSI neutral. Current RSI: 63.07
+[2025-04-27 11:20:17.418107] No trade - RSI neutral. Current RSI: 59.85
+[2025-04-27 11:21:18.582191] No trade - RSI neutral. Current RSI: 58.01
+[2025-04-27 11:22:19.797626] No trade - RSI neutral. Current RSI: 58.03
+[2025-04-27 11:23:20.528348] No trade - RSI neutral. Current RSI: 58.01
+[2025-04-27 11:24:21.614348] No trade - RSI neutral. Current RSI: 65.53
+[2025-04-27 11:25:22.911971] No trade - RSI neutral. Current RSI: 65.65
+[2025-04-27 11:26:24.069421] No trade - RSI neutral. Current RSI: 65.66
+[2025-04-27 11:27:24.953844] No trade - RSI neutral. Current RSI: 61.19
+[2025-04-27 11:28:26.050136] No trade - RSI neutral. Current RSI: 64.74
+[2025-04-27 11:29:27.244149] No trade - RSI neutral. Current RSI: 64.70
+[2025-04-27 11:30:28.381925] No trade - RSI neutral. Current RSI: 54.81
+[2025-04-27 11:31:29.308790] No trade - RSI neutral. Current RSI: 56.25
+[2025-04-27 11:32:30.584231] No trade - RSI neutral. Current RSI: 61.81
+[2025-04-27 11:33:31.493449] No trade - RSI neutral. Current RSI: 65.09
+[2025-04-27 11:34:32.609793] No trade - RSI neutral. Current RSI: 65.73
+[2025-04-27 11:37:26.995491] Testing Bot v1.0 Starting...
+[2025-04-27 11:37:28.023164] No trade - RSI neutral. Current RSI: 66.89
+[2025-04-27 11:38:29.397156] No trade - RSI neutral. Current RSI: 66.84
+[2025-04-27 11:39:30.731348] No trade - RSI neutral. Current RSI: 65.02
+[2025-04-27 11:40:31.879650] No trade - RSI neutral. Current RSI: 63.91
+[2025-04-27 12:33:17.759551] Testing Bot v1.0 Starting...
+[2025-04-27 12:33:18.842596] No trade - RSI neutral. Current RSI: 65.03
+[2025-04-27 12:34:20.002759] No trade - RSI neutral. Current RSI: 67.80
+[2025-04-27 12:36:22.054839] No trade - RSI neutral. Current RSI: 66.29
+[2025-04-27 12:37:23.105490] No trade - RSI neutral. Current RSI: 60.47
+[2025-04-27 12:38:24.409799] No trade - RSI neutral. Current RSI: 59.78
