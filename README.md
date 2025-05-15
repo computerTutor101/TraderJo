@@ -1,5 +1,5 @@
 
-# PhoenixBot 🔥
+# TraderJo 🔥
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
