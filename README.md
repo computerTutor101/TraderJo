@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/build-live--simulator-yellowgreen)]()
 
-PhoenixBot is a modular, live-data, paper trading crypto bot that trades based on RSI (Relative Strength Index) strategies using the Binance API.  
+TraderJo is a modular, live-data, paper trading crypto bot that trades based on RSI (Relative Strength Index) strategies using the Binance API.  
 The bot fetches real-time BTC/USDT market data, simulates trades based on RSI thresholds, and visualizes wallet growth live.
 
 ---
